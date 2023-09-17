@@ -1,0 +1,15 @@
+Capitulo #1 ¿que es python?
+
+Python es un lenguaje de programación de alto nivel, interpretado y generalmente considerado como un lenguaje de fácil lectura y escritura. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Algunas de las características clave de Python son:
+
+Sintaxis clara y legible: Python utiliza una sintaxis sencilla y estructurada que favorece la legibilidad del código, lo que facilita su aprendizaje y mantenimiento.
+
+Interpretado: Python no requiere una compilación previa y se ejecuta línea por línea en tiempo real, lo que agiliza el desarrollo y la depuración de programas.
+
+Multiplataforma: Python es compatible con una amplia variedad de sistemas operativos, lo que lo hace portátil y versátil.
+
+Amplia biblioteca estándar: Python incluye una amplia gama de módulos y bibliotecas que facilitan el desarrollo de aplicaciones para diversas necesidades, desde desarrollo web hasta análisis de datos y automatización.
+
+Comunidad activa: Python cuenta con una comunidad de desarrolladores muy activa y una gran cantidad de recursos en línea, tutoriales y bibliotecas de terceros que facilitan el desarrollo de proyectos.
+
+Python se utiliza en una variedad de aplicaciones, como desarrollo web, ciencia de datos, inteligencia artificial, automatización, scripting y más. Es un lenguaje versátil que es ampliamente apreciado por su facilidad de uso y potencia.

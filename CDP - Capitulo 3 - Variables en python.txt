@@ -1,0 +1,42 @@
+Capitulo #3 Variables en Python
+
+En Python, una variable es un contenedor que se utiliza para almacenar datos. Puedes pensar en una variable como un nombre simbólico que se asocia con un valor. Para crear una variable en Python, simplemente eliges un nombre para ella y le asignas un valor utilizando el operador de asignación =.
+
+Ejemplo:
+
+mi_variable = 42
+
+En este ejemplo, hemos creado una variable llamada mi_variable y le hemos asignado el valor 42.
+
+Reglas para nombrar variables en Python:
+
+*) El nombre de una variable debe comenzar con una letra (a-z, A-Z) o un guion bajo (_).
+*) El resto del nombre de la variable puede contener letras, números y guiones bajos.
+*) Los nombres de las variables son sensibles a mayúsculas y minúsculas, lo que significa que mi_variable y mi_Variable se consideran nombres de variables diferentes.
+*) Python tiene algunas palabras clave reservadas que no puedes usar como nombres de variables, como if, else, while, etc.
+
+Tipos de Variables en Python:
+
+Python es un lenguaje de programación de tipado dinámico, lo que significa que no es necesario declarar explícitamente el tipo de una variable. El tipo de variable se determina automáticamente según el valor que se le asigna.
+
+Los tipos de variables más comunes en Python son:
+
+1)Enteros (int): Representan números enteros sin decimales. Ejemplo: numero = 42.
+
+2)Flotantes (float): Representan números con decimales. Ejemplo: pi = 3.14159.
+
+3)Cadenas (str): Representan texto. Ejemplo: nombre = "Juan".
+
+4)Booleanos (bool): Representan valores de verdad, es decir, True o False. Ejemplo: es_mayor_de_edad = True.
+
+5)Listas: Almacenan una colección ordenada de elementos. Ejemplo: mi_lista = [1, 2, 3].
+
+6)Tuplas: Son similares a las listas, pero son inmutables (no se pueden modificar una vez creadas). Ejemplo: mi_tupla = (1, 2, 3).
+
+7)Diccionarios: Almacenan pares clave-valor. Ejemplo: mi_diccionario = {"nombre": "Ana", "edad": 25}.
+
+8)Conjuntos (set): Almacenan elementos únicos y no están ordenados. Ejemplo: mi_conjunto = {1, 2, 3}.
+
+Python es capaz de inferir automáticamente el tipo de variable en función del valor que le asignes. Por ejemplo, si asignas 'mi_variable = 42', Python entenderá que 'mi_variable' es de tipo entero (int).
+
+Esto es apenas una introducción a las variables y tipos de variables en Python, Puedes utilizarlos para almacenar y manipular datos en tus programas.

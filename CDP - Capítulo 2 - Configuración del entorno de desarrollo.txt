@@ -1,0 +1,26 @@
+Capitulo #2 Configuración del entorno de desarrollo
+
+La configuración del entorno de desarrollo es un paso esencial para comenzar a programar en Python. Aquí indico los pasos básicos para configurar tu entorno:
+
+Paso 1: Instalar Python
+
+Descarga la última versión de Python desde el sitio web oficial (https://www.python.org/downloads/) e instálala en la computadora.
+Durante la instalación, asegúrate de marcar la casilla que dice "Agregar Python al PATH" para que Python sea accesible desde la línea de comandos.
+
+Paso 2: Instalar un Editor de Código (opcional)
+
+Puedes usar un editor de código dedicado para escribir tus programas Python. Algunos populares son Visual Studio Code, PyCharm, Sublime Text, o incluso IDLE, que se instala con Python.
+
+Paso 3: Comprobar la Instalación
+
+Abre la línea de comandos (en Windows, presiona Win + R, escribe cmd y presiona Enter) o una terminal en tu sistema operativo.
+Escribe python --version o python3 --version (dependiendo de tu sistema) para verificar que Python se instaló correctamente y muestra la versión.
+
+Paso 4: ¡Listo para Programar!
+
+Ahora puedes crear y ejecutar archivos Python (con extensión .py) usando tu editor de código o la línea de comandos.
+Ejemplo de programa "Hola Mundo" en Python:
+
+print("¡Hola Mundo!")
+
+Hay que recordar que existen entornos de desarrollo integrados (IDE) que facilitan aún más la escritura y depuración de código Python. Elije el que te resulte más cómodo y comienza a programar. ¡Estás listo para empezar tu viaje en Python!
