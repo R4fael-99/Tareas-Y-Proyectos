@@ -1,0 +1,42 @@
+Capitulo #4 Cadenas de Caracteres (Strings):
+
+Una cadena de caracteres, comúnmente llamada "string" en programación, es una secuencia de caracteres que pueden incluir letras, números, espacios y símbolos. Las cadenas se utilizan para representar texto en Python.
+
+Ejemplo de una cadena de caracteres:
+
+mi_cadena = "Hola, esto es una cadena de caracteres."
+
+Operaciones con Cadenas en Python:
+
+1)Asignación: Como se muestra en el ejemplo anterior, puedes asignar una cadena de caracteres a una variable utilizando el operador de asignación =.
+
+2)Concatenación: Puedes unir (concatenar) dos o más cadenas utilizando el operador +.
+
+saludo = "Hola, "
+nombre = "Juan"
+mensaje = saludo + nombre
+# El valor de mensaje será "Hola, Juan"
+
+3)Búsqueda: Puedes verificar si una subcadena está presente en una cadena más grande utilizando el operador in.
+
+cadena = "Python es genial"
+if "Python" in cadena:
+    print("¡Python está en la cadena!")
+    
+4)Extracción: Puedes acceder a caracteres individuales o a segmentos de una cadena utilizando índices. Python utiliza índices basados en cero. 
+
+cadena = "Python"
+primer_caracter = cadena[0]  # Esto obtiene el primer carácter "P"
+segmento = cadena[1:4]       # Esto obtiene "yth" (índices 1 a 3)
+
+5)Comparación: Puedes comparar cadenas utilizando operadores de comparación como ==, !=, <, >, etc.
+
+cadena1 = "Hola"
+cadena2 = "Hola"
+
+if cadena1 == cadena2:
+    print("Las cadenas son iguales")
+    
+Las cadenas en Python son inmutables, lo que significa que no puedes modificar una cadena existente directamente, pero puedes crear una nueva cadena con las modificaciones deseadas.
+
+Estas son algunas de las operaciones básicas que puedes realizar con cadenas en Python. Son muy útiles para trabajar con texto en tus programas.    
